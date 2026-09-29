@@ -32,18 +32,21 @@ Configured tenant-wide security policies to mitigate credential compromise risks
 *(Note: Replace the links below with the actual image files uploaded to this repository)*
 
 ### User Directory
-![Uploading WhatsApp Image 2026-09-29 at 7.07.21 PM.jpeg…]()
+<img width="1351" height="630" alt="User Directory" src="https://github.com/user-attachments/assets/b0392bf3-f02f-437f-8f84-3b3acf5e4dad" />
 
 *Centralized view of provisioned identities across the organization.*
 
 ### RBAC Roles Configuration
-![Roles List](./WhatsApp%20Image%202026-09-29%20at%207.20.10%20PM.jpeg)
+<img width="1338" height="575" alt="RBAC Roles Configuration" src="https://github.com/user-attachments/assets/470cff8a-e6d9-4042-87b4-1df9c2cd7b60" />
+
 *Defined access control roles for IT, HR, and Finance.*
 
 ### Role Assignment
-![Role Assignment](./WhatsApp%20Image%202026-09-29%20at%207.20.38%20PM.jpeg)
+<img width="1365" height="632" alt="Role Assignment" src="https://github.com/user-attachments/assets/b4576d8c-056b-4cbc-849f-b5e648fe80eb" />
+
 *Successful assignment of a user identity to the IAM-Administrator role.*
 
 ### MFA Security Policy
-![MFA Policy](./WhatsApp%20Image%202026-09-29%20at%207.19.11%20PM.jpeg)
+<img width="1341" height="640" alt="MFA Security Policy" src="https://github.com/user-attachments/assets/7c8156b9-4076-42d5-b792-1b4c58fc3fd5" />
+
 *Tenant-wide enforcement of OTP Multi-Factor Authentication.*
