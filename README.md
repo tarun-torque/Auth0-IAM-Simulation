@@ -32,7 +32,8 @@ Configured tenant-wide security policies to mitigate credential compromise risks
 *(Note: Replace the links below with the actual image files uploaded to this repository)*
 
 ### User Directory
-![User Directory](./WhatsApp%20Image%202026-09-29%20at%207.07.21%20PM.jpeg)
+![Uploading WhatsApp Image 2026-09-29 at 7.07.21 PM.jpeg…]()
+
 *Centralized view of provisioned identities across the organization.*
 
 ### RBAC Roles Configuration
